@@ -1,0 +1,5 @@
+1) Run the sql
+2) Run scripts in installation folder.
+    order:
+        > installation --> admin_cust_claim.py --> admincustclaim
+                Post the request with email, entityid and countryid as payloads        
